@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Quintiliano</h1>
+<h3 align="center">A passionate front-end developer from Brazil</h3>
 
 - 🔭 I’m currently attending to [Santander Coders 2023 - Angular Course at Ada Tech](https://github.com/gabriel-quintiliano/SantanderCoders2023)
 
